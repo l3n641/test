@@ -6,3 +6,6 @@ def tet():
 
 def test():
 	pass
+
+def test_git():
+    pass
