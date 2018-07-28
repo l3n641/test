@@ -12,3 +12,6 @@ def test_git():
 
 def test_3():
     pass
+
+def test_4():
+    pass
