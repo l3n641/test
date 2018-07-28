@@ -3,3 +3,6 @@ def create_app():
 
 def tet():
 	pass
+
+def test():
+	pass
