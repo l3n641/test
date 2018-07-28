@@ -9,3 +9,6 @@ def test():
 
 def test_git():
     pass
+
+def test_3():
+    pass
